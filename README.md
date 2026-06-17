@@ -5,7 +5,7 @@
 
 <!-- Animated Name SVG -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=2500&pause=800&color=00F5FF&background=00000000&center=true&vCenter=true&multiline=false&width=900&height=60&lines=I+AM+ABDUL+RAFAY+%F0%9F%9A%80;Developer+%7C+Creator+%7C+Innovator" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=2500&pause=800&color=00F5FF&background=00000000&center=true&vCenter=true&multiline=false&width=900&height=60&lines=I+AM+ABDUL+RAFAY;Developer+%7C+Creator+%7C+Innovator" />
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=2500&pause=800&color=0D6EFD&background=00000000&center=true&vCenter=true&multiline=false&width=500&height=60&lines=I+AM+ABDUL+RAFAY+%F0%9F%9A%80;Developer+%7C+Creator+%7C+Innovator" alt="Typing SVG" />
 </picture>
 
