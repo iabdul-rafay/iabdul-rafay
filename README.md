@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtxeTQxaWp6bm9xZG9veng3dHJrdWt3YWZneWQ5bzB0YW43a2k0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align="right" alt="Coding" width="2" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtxeTQxaWp6bm9xZG9veng3dHJrdWt3YWZneWQ5bzB0YW43a2k0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 ```yaml
 Name       : Abdul Rafay
@@ -77,17 +77,12 @@ Status     : Always coding something new
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abdulrafay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f5ff&icon_color=bf5fff&text_color=ffffff&count_private=true" width="48%" />
+  
+<img src="https://github-readme-stats.vercel.app/api?username=abdulrafay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f5ff&icon_color=bf5fff&text_color=ffffff&count_private=true&hide=contribs" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrafay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f5ff&text_color=ffffff&langs_count=8" width="48%" />
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrafay&theme=tokyonight&hide_border=true&background=0D1117&stroke=00f5ff&ring=bf5fff&fire=ff6ec7&currStreakLabel=00f5ff&sideLabels=ffffff&dates=ffffff" width="70%" />
-
-</div>
 
 ---
 
@@ -95,9 +90,9 @@ Status     : Always coding something new
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[github-snake-dark.svg]https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="[github-snake.svg]https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svghttps://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
 </div>
 
