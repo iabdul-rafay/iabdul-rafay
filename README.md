@@ -5,75 +5,9 @@
 
 <!-- Animated Name SVG -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=2500&pause=800&color=00F5FF&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=90&lines=I+AM+ABDUL+RAFAY;Developer+%7C+Creator+%7C+Innovator" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=2500&pause=800&color=00F5FF&background=00000000&center=true&vCenter=true&multiline=false&width=900&height=60&lines=I+AM+ABDUL+RAFAY+%F0%9F%9A%80;Developer+%7C+Creator+%7C+Innovator" />
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=2500&pause=800&color=0D6EFD&background=00000000&center=true&vCenter=true&multiline=false&width=500&height=60&lines=I+AM+ABDUL+RAFAY+%F0%9F%9A%80;Developer+%7C+Creator+%7C+Innovator" alt="Typing SVG" />
 </picture>
-
-<br/>
-
-<!-- Wave Text Name Animation (SVG) -->
-<svg viewBox="0 0 860 110" xmlns="http://www.w3.org/2000/svg" width="860" height="110">
-  <defs>
-    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#00f5ff"/>
-      <stop offset="33%"  stop-color="#bf5fff"/>
-      <stop offset="66%"  stop-color="#ff6ec7"/>
-      <stop offset="100%" stop-color="#00f5ff">
-        <animate attributeName="stop-color" values="#00f5ff;#ff6ec7;#bf5fff;#00f5ff" dur="4s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <style>
-      .letter {
-        font-family: 'Arial Black', 'Impact', sans-serif;
-        font-size: 68px;
-        font-weight: 900;
-        fill: url(#nameGrad);
-        filter: url(#glow);
-      }
-      .l0  { animation: wave 1.8s ease-in-out infinite; animation-delay: 0.00s; }
-      .l1  { animation: wave 1.8s ease-in-out infinite; animation-delay: 0.10s; }
-      .l2  { animation: wave 1.8s ease-in-out infinite; animation-delay: 0.20s; }
-      .l3  { animation: wave 1.8s ease-in-out infinite; animation-delay: 0.30s; }
-      .l4  { animation: wave 1.8s ease-in-out infinite; animation-delay: 0.40s; }
-      .l5  { animation: wave 1.8s ease-in-out infinite; animation-delay: 0.50s; }
-      .l6  { animation: wave 1.8s ease-in-out infinite; animation-delay: 0.60s; }
-      .l7  { animation: wave 1.8s ease-in-out infinite; animation-delay: 0.70s; }
-      .l8  { animation: wave 1.8s ease-in-out infinite; animation-delay: 0.80s; }
-      .l9  { animation: wave 1.8s ease-in-out infinite; animation-delay: 0.90s; }
-      .l10 { animation: wave 1.8s ease-in-out infinite; animation-delay: 1.00s; }
-      .l11 { animation: wave 1.8s ease-in-out infinite; animation-delay: 1.10s; }
-      .l12 { animation: wave 1.8s ease-in-out infinite; animation-delay: 1.20s; }
-      .l13 { animation: wave 1.8s ease-in-out infinite; animation-delay: 1.30s; }
-      .l14 { animation: wave 1.8s ease-in-out infinite; animation-delay: 1.40s; }
-      .l15 { animation: wave 1.8s ease-in-out infinite; animation-delay: 1.50s; }
-      @keyframes wave {
-        0%,100% { transform: translateY(0px);   }
-        50%      { transform: translateY(-18px); }
-      }
-    </style>
-  </defs>
-  <!-- I   A  M     A  B  D  U  L     R   A   F   A   Y -->
-  <text class="letter l0"  x="15"  y="82">I</text>
-  <text class="letter l1"  x="70"  y="82">A</text>
-  <text class="letter l2"  x="120" y="82">M</text>
-  <text class="letter l3"  x="190" y="82">A</text>
-  <text class="letter l4"  x="238" y="82">B</text>
-  <text class="letter l5"  x="286" y="82">D</text>
-  <text class="letter l6"  x="336" y="82">U</text>
-  <text class="letter l7"  x="384" y="82">L</text>
-  <text class="letter l8"  x="448" y="82">R</text>
-  <text class="letter l9"  x="498" y="82">A</text>
-  <text class="letter l10" x="548" y="82">F</text>
-  <text class="letter l11" x="593" y="82">A</text>
-  <text class="letter l12" x="641" y="82">Y</text>
-</svg>
 
 <br/>
 
@@ -88,14 +22,14 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtxeTQxaWp6bm9xZG9veng3dHJrdWt3YWZneWQ5bzB0YW43a2k0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtxeTQxaWp6bm9xZG9veng3dHJrdWt3YWZneWQ5bzB0YW43a2k0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 ```yaml
-name       : Abdul Rafay
-location   : Pakistan 🇵🇰
-role       : Full Stack Developer
-passion    : Building beautiful, functional software
-status     : Always coding something new 🚀
+Name       : Abdul Rafay
+Location   : Islamabad, Pakistan
+Role       : Full Stack Developer
+Passion    : Building & designing beautiful functional software
+Status     : Always coding something new 
 ```
 
 - 🔭 I'm currently working on **awesome open-source projects**
@@ -157,7 +91,15 @@ status     : Always coding something new 🚀
 
 ---
 
+## 🐍 Contribution Snake
 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="[github-snake-dark.svg]https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="[github-snake.svg]https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svghttps://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
 
 ---
 
@@ -165,11 +107,11 @@ status     : Always coding something new 🚀
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulrafay)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abdulrafay)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abdulrafay)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrafay@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://abdulrafay.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdul-rafay-76b165320)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/iabdul_rafay)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iabdul.rafay7/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamrafay64@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](my-portfolio-eight-ashy-98.vercel.app )
 
 </div>
 
