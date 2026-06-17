@@ -75,14 +75,11 @@ Status     : Always coding something new
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
   
 <img src="https://github-readme-stats.vercel.app/api?username=abdulrafay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f5ff&icon_color=bf5fff&text_color=ffffff&count_private=true&hide=contribs" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrafay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f5ff&text_color=ffffff&langs_count=8" width="48%" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrafay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f5ff&text_color=ffffff&langs_count=8&hide=Jupyter%20Notebook,Python,C%23&custom_langs=JavaScript,TypeScript,HTML,CSS,Vue" width="48%" />
 </div>
-
 
 ---
 
@@ -106,7 +103,7 @@ Status     : Always coding something new
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/iabdul_rafay)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iabdul.rafay7/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamrafay64@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](my-portfolio-eight-ashy-98.vercel.app )
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://my-portfolio-eight-ashy-98.vercel.app/)
 
 </div>
 
