@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="2" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtxeTQxaWp6bm9xZG9veng3dHJrdWt3YWZneWQ5bzB0YW43a2k0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align="right" alt="Coding" width="260" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtxeTQxaWp6bm9xZG9veng3dHJrdWt3YWZneWQ5bzB0YW43a2k0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 ```yaml
 Name       : Abdul Rafay
