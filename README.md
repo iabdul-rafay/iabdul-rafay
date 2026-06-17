@@ -20,7 +20,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 <img align="right" alt="Coding" width="260" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtxeTQxaWp6bm9xZG9veng3dHJrdWt3YWZneWQ5bzB0YW43a2k0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
@@ -40,7 +40,7 @@ Status     : Always coding something new
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
@@ -74,7 +74,7 @@ Status     : Always coding something new
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <div align="center">
   
 <img src="https://github-readme-stats.vercel.app/api?username=abdulrafay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f5ff&icon_color=bf5fff&text_color=ffffff&count_private=true&hide=contribs" width="48%" />
@@ -83,7 +83,7 @@ Status     : Always coding something new
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 <picture>
@@ -95,7 +95,7 @@ Status     : Always coding something new
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -111,7 +111,7 @@ Status     : Always coding something new
 
 <div align="center">
 
-### 💭 Quote of the Day
+### Quote of the Day
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House)](https://github.com/piyushsuthar/github-readme-quotes)
 
@@ -125,7 +125,5 @@ Status     : Always coding something new
 <div align="center">
 
 **⭐ If you like my work, consider giving my repos a star! ⭐**
-
-*Made with ❤️ by Abdul Rafay*
 
 </div>
